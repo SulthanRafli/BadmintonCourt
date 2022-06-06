@@ -17,7 +17,7 @@ You can use the account below for login access
 
 ## 📸 Screenshots
 
-![Screenshot1](https://cdn.discordapp.com/attachments/626766421086568448/983364860383494174/Web_capture_6-6-2022_203641_rusun-muka-kuning.epizy.com.jpeg)
+![Screenshot1](https://cdn.discordapp.com/attachments/626766421086568448/983371662571479040/Web_capture_6-6-2022_21513_badminton-court.epizy.com.jpeg)
 ![Screenshot2](https://cdn.discordapp.com/attachments/626766421086568448/983371662315630622/Web_capture_6-6-2022_21634_badminton-court.epizy.com.jpeg)
 
 ## 🛠️ Development
