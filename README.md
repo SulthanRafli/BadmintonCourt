@@ -29,7 +29,7 @@ $ XAMPP Version: 5.6.40
 
 # Clone the project to hdocts folder
 $ git clone https://github.com/SulthanRafli/BadmintonCourt.git
-$ cd RusunMukaKuning
+$ cd BadmintonCourt
 
 $ Run dev server
 $ php artisan serve
